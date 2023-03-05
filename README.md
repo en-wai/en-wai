@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey there, im En-wai 
 
-<!--
-**en-wai/en-wai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif
+<br>
 
-Here are some ideas to get you started:
+| [![en-wai Asare](https://img.shields.io/badge/Maaz%E1%BB%8B-Ikwuka%20Okoye-blue)](#) | [![Followers](https://img.shields.io/github/followers/en-wai)](#) | [![Stars](https://img.shields.io/github/stars/en-wai?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![Wakatime](https://wakatime.com/badge/user/33aa22b6-1751-45ce-b283-99f6c1beccb8.svg)](https://wakatime.com/@en-wai) | ![visitors](https://visitor-badge.glitch.me/badge?page_id=en-wai) |
+--| --| --| --| --|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+    <img
+        src="./banner/front-end_software_engineer.gif"
+        alt="Front-End Software Engineer"
+    />
+</div>
+<br>
+
+[![En-wai's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-wai)](https://github.com/en-wai/github-readme-stats)
