@@ -11,7 +11,7 @@
 <br>
 
 ## About me 
-I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech becasue I strongly believe it gives me satisfaction and also gives me a more rounded understanding. This is critical to solving the complex probelems we have in todays world.
+I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech becasue I strongly believe it gives me satisfaction and also gives me a more rounded understanding. This is critical to solving the complex problems we have in todays world.
 <br><br>
 
 [![En-wai's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-wai)](https://github.com/en-wai/github-readme-stats)
