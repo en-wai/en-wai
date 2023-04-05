@@ -14,10 +14,12 @@
 I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech becasue I strongly believe it gives me satisfaction and also gives me a more rounded understanding. This is critical to solving the complex problems we have in todays world.
 <br><br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=en-wai)](https://github.com/en-wai/github-readme-stats)
-
-[![My GitHub Streak](https://streak-stats.demolab.com/?user=en-wai&theme=radical&env=PAT_1)](https://git.io/streak-stats)
-<br><br>
+<div style="display:flex;">
+    
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=en-wai)](https://github.com/en-wai/github-readme-stats)
+ [![My GitHub Streak](https://streak-stats.demolab.com/?user=en-wai&theme=radical&env=PAT_1)](https://git.io/streak-stats)
+    
+</div>  
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=en-wai&layout=compact)](https://github.com/en-wai/github-readme-stats)
 
