@@ -16,12 +16,13 @@ I am a tech enthusiast and do not limit myself to one area. I try to learn a bit
 
 <div style="display:flex;">
     
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=en-wai)](https://github.com/en-wai/github-readme-stats)
+ ![En-wai GitHub Stats](https://github-readme-stats.vercel.app/api?username=en-wai&show_icons=true&theme=radical) 
  [![My GitHub Streak](https://streak-stats.demolab.com/?user=en-wai&theme=radical&env=PAT_1)](https://git.io/streak-stats)
     
 </div>  
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=en-wai&layout=compact)](https://github.com/en-wai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=en-wai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
