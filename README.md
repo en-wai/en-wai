@@ -5,7 +5,7 @@
 <div align="center">
     <img
         src="./banner/front-end_software_engineer.gif"
-        alt="Front-End Software Engineer"
+        alt="Software Engineer"
     />
 </div>
 <br>
