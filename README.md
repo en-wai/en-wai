@@ -21,8 +21,6 @@ I am a tech enthusiast and do not limit myself to one area. I try to learn a bit
     
 </div>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=en-wai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
