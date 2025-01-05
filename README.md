@@ -11,7 +11,7 @@
 <br>
 
 ## About me 
-I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech becasue I strongly believe it gives me satisfaction and also gives me a more rounded understanding. This is critical to solving the complex problems we have in todays world.
+I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech because I strongly believe it gives me satisfaction and also gives me a more rounded understanding. This is critical to solving the complex problems we have in today's world.
 <br><br>
 
 <div style="display:flex;">
@@ -21,13 +21,13 @@ I am a tech enthusiast and do not limit myself to one area. I try to learn a bit
     
 </div>  
 
-## Most Fluent Languges 
+## Most Fluent Languages 
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [Show your latest dav.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
