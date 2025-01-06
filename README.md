@@ -11,7 +11,7 @@
 <br>
 
 ## About me 
-I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech because I strongly believe it gives me satisfaction and also gives me a more rounded understanding. This is critical to solving the complex problems we have in today's world.
+I am a tech enthusiast and do not limit myself to one area. I try to learn a bit about every field of tech because it gives me satisfaction and a more rounded understanding. This is critical to solving the complex problems we have in today's world.
 <br><br>
 
 <div style="display:flex;">
